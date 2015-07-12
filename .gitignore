@@ -1,7 +1,7 @@
 .DS_Store
-.idea/
+Thumbs.db
+db.json
 *.log
-
-# Ignore unused verdors' files
-source/vendors/fancybox/*
-!source/vendors/fancybox/source/
+node_modules/
+public/
+.deploy*/
